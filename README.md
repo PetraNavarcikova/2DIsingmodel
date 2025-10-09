@@ -1,7 +1,7 @@
 # 2DIsingmodel
 Metropolis Monte Carlo simulation of the 2D Ising model as a part of the Computational Physics course at TU Delft. 
 
-# Authors: Petra Navarcikova, Arianna Pasterkamp, Lucio Vecchia
+**Authors: Petra Navarcikova, Arianna Pasterkamp, Lucio Vecchia**
 
 
 This project investigates the **thermodynamic and phase transition behavior of the 2D Ising model** using **Monte Carlo simulations**.  
