@@ -1,7 +1,7 @@
 
 import matplotlib.pyplot as plt
 import matplotlib.animation as animation
-from Project2 import initialize_lattice,metropolis_step
+from Ising import initialize_lattice,metropolis_step
 
 
 def animate_lattice(N, T, n_steps, J=1, H=0, interval=200):
